@@ -31,7 +31,7 @@ circuit diagram and tabulation:
 
 ![image](https://github.com/Nanditha285/EXP-5/blob/main/Screenshot%202026-03-19%20153727.png?raw=true)
 
-![image]
+![image](https://github.com/Nanditha285/EXP-5/blob/main/Screenshot%202026-03-19%20153747.png?raw=true)
 
 PRECAUTIONS:
 
@@ -39,6 +39,8 @@ PRECAUTIONS:
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
+
+OUTPUT:
 
 ![image](https://github.com/Nanditha285/EXP-5/blob/main/Screenshot%202026-03-19%20153417.png?raw=true)
 RESULT:
